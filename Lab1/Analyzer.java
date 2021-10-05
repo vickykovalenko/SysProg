@@ -10,8 +10,6 @@ import java.util.regex.*;
 import java.util.List;
 
 class Analyzer {
-    private final String VOWELS = "aeiouAEIOU";
-
     boolean isLetter(char ch) {
         return Character.isLetter(ch);
     }
