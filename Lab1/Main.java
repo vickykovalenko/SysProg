@@ -16,9 +16,3 @@ public class Main {
         // representation of a multidimensional array, providing the strings with square brackets:
     }
 }
-
-
-
-
-
-
